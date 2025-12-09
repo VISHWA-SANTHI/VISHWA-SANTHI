@@ -41,7 +41,9 @@
 ---
 
 ## 🟣 3 — 3D Contribution Chart
-<p align="center"><i>⏳ 3D chart will display automatically after workflow run completes.</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg"/>
+</p>
 
 ---
 
