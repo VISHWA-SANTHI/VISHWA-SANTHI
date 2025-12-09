@@ -3,20 +3,27 @@ name: main
 on: [push]
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
+test:
+  runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v5
-      - uses: oven-sh/setup-bun@v1
+  steps:
+    - uses: actions/checkout@v5
+    - uses: oven-sh/setup-bun@v1
 
-      - run: bun install --frozen-lockfile
+    - run: bun install --frozen-lockfile
+      working-directory: packages/action
 
-      - run: npm run type
-      - run: npm run lint
-      - run: bun test
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - run: npm run type
+      working-directory: packages/action
+
+    - run: npm run lint
+      working-directory: packages/action
+
+    - run: bun test
+      working-directory: packages/action
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
   test-action:
     runs-on: ubuntu-latest
