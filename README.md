@@ -50,7 +50,7 @@ Focused on **automation, reliability & scalability**.
 
 ---
 
-## 📊 1 - GitHub Stats
+### 📊 1 — GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
@@ -58,9 +58,9 @@ Focused on **automation, reliability & scalability**.
 
 ---
 
-## 🟢 2 — Auto Updating Streak & Activity
+### 🟢 2 — Auto Updating Streak & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&margin-w=6"/>
+  <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -72,14 +72,14 @@ Focused on **automation, reliability & scalability**.
 
 ---
 
-## 🏆 4 — Trophy Wall
+### 🏆 4 — Trophy Wall
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&margin-w=6"/>
 </p>
 
 ---
 
-## 🔵 5 — DevOps Tools / Languages Graph
+### 🔵 5 — DevOps Tools / Languages Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWA-SANTHI&theme=tokyo-night&hide_border=true"/>
 </p>
