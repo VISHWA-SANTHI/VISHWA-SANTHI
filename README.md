@@ -50,42 +50,43 @@ Focused on **automation, reliability & scalability**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 1 - GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
 
-## 🟢 4 — Auto Updating Streak & Activity
+## 🟢 2 — Auto Updating Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&margin-w=6"/>
 </p>
 
 ---
 
-## 🟣 1 — 3D Contribution Chart
-<p align="center"><i>🔄 3D Contribution chart will appear within a few minutes after workflow setup.</i></p>
-
----
-
-## 🏆 2 — Trophy Wall
+## 🟣 3 — 3D Contribution Chart
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg"/>
 </p>
 
 ---
 
-## 🔵 3 — DevOps Tools / Languages Graph
+## 🏆 4 — Trophy Wall
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWA-SANTHI&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&margin-w=6"/>
 </p>
 
 ---
 
-## 🟤 5 — DevOps Tools Pie Chart
+## 🔵 5 — DevOps Tools / Languages Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWA-SANTHI&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🟤 6 — DevOps Tools Pie Chart
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VISHWA-SANTHI&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VISHWA-SANTHI&theme=tokyonight"/>
