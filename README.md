@@ -43,27 +43,21 @@ A scalable event-driven architecture for centralized log monitoring and failure 
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Project
 <p align="center">
-
-  <a href="https://github.com/VISHWA-SANTHI/aws-cloudwatch-log-alerting" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWA-SANTHI&repo=aws-cloudwatch-log-alerting&theme=tokyonight" />
+  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWA-SANTHI&repo=AWS-log-monitoring-project&theme=tokyonight" />
   </a>
-  <br>
-  <a href="https://github.com/VISHWA-SANTHI/aws-cloudwatch-log-alerting" target="_blank">
-    🔗 <strong>View Project</strong>
-  </a>
+</p>
 
-  <br><br>
-
-  <a href="https://github.com/VISHWA-SANTHI/jenkins-ci-cd-pipeline" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWA-SANTHI&repo=jenkins-ci-cd-pipeline&theme=tokyonight" />
+<p align="center">
+  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project" target="_blank">
+    🔗 <strong>View Repository</strong>
   </a>
-  <br>
-  <a href="https://github.com/VISHWA-SANTHI/jenkins-ci-cd-pipeline" target="_blank">
-    🔗 <strong>View Project</strong>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/VISHWA-SANTHI/AWS-log-monitoring-project/tree/main/docs" target="_blank">
+    📘 <strong>View Documentation</strong>
   </a>
-
 </p>
 
 ---
