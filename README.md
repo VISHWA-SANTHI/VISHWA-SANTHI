@@ -13,15 +13,10 @@
 
 ---
 
-<!-- Typing SVG Banner -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=1ABC9C&center=true&vCenter=true&width=900&lines=AWS+%26+DevOps+Engineer;Cloud+Infrastructure+%7C+CI%2FCD+Automation;Terraform+%7C+Docker+%7C+Jenkins;Always+learning+new+technologies+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&color=1ABC9C&center=true&vCenter=true&width=900&lines=AWS+%26+DevOps+Engineer;Infrastructure+as+Code+with+Terraform;CI%2FCD+Automation+%7C+Jenkins;Cloud+Infrastructure+%7C+Docker+%7C+Linux;Always+Learning+New+Technologies+🚀">
 </p>
-
----
-
-## 🚀 About Me
-AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD automation, AWS cloud infrastructure, Infrastructure as Code (Terraform), Dockerization, and monitoring solutions. Passionate about scalable deployments, cloud security, and automation to boost development efficiency.
 
 ---
 
@@ -34,70 +29,45 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 
 ## 📂 Featured Project
 ### 🚨 AWS Event-Driven Log Monitoring & Alerting System
-| Description | Technologies |
-|-------------|--------------|
-| Real-time monitoring pipeline that detects application-level failures and sends instant alerts via SNS | AWS EC2, CloudWatch, Metric Filters, SNS, S3, IAM, Shell Scripting, Python |
+A scalable end-to-end log analytics pipeline on AWS with automated alerting for failure detection.
 
-📌 Key Highlights  
-- Real-time log streaming from EC2 → CloudWatch  
-- Metric Filters → Detect `ERROR` patterns  
-- CloudWatch Alarm → SNS email notification  
-- Python log generator used to simulate failures  
-- S3 Lifecycle → Glacier archival (~80% cost reduction)
+| Feature | Description |
+|--------|-------------|
+| 🔍 Real-time monitoring | EC2 → CloudWatch log streaming |
+| ⚠ Error detection | Metric Filters trigger CloudWatch Alarms |
+| 🚨 Alerting | SNS email notifications in real-time |
+| 🐍 Log generator | Python-based simulation of failure scenarios |
+| 💾 Cost savings | S3 Lifecycle → Glacier archival (≈80% savings) |
 
 🔗 Repository: **https://github.com/VISHWA-SANTHI**
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="150" />
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&rank_icon=github" height="155" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="155" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak & Activity
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight" />
 </p>
 
 ---
 
-### 🟣 3D Contribution Heatmap
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-rainbow.svg" width="720" alt="3D Contribution Graph"/>
-</p>
-
----
-
-### 🏆 Trophy Wall
+## 🏆 Trophy Wall
 <p align="center">
   <img src="https://github-profile-trophy-api.kodluyoruz.dev/?username=VISHWA-SANTHI&theme=tokyonight&margin-w=8" />
-</p>
-
-
----
-
-### 📈 DevOps Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWA-SANTHI&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/VISHWA-SANTHI/VISHWA-SANTHI/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📄 Resume — QR Code
-<p align="center">
-  <a href="https://vishwa-santhi.github.io/resume-profile/Vishwa_Resume.pdf" target="_blank">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://vishwa-santhi.github.io/resume-profile/Vishwa_Resume.pdf"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -116,5 +86,5 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 ---
 
 <div align="center">
-🔥 Thanks for visiting my profile! — Let's connect on LinkedIn 😎
+🔥 Thanks for visiting my profile! — Let's connect on LinkedIn 😎  
 </div>
