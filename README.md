@@ -66,7 +66,7 @@ AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD au
 
 ### 🟣 3D Contribution Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-rainbow.svg" width="720" alt="3D Contribution Graph"/>
 </p>
 
 ---
