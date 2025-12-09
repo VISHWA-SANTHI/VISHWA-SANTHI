@@ -1,0 +1,30 @@
+name: Generate 3D Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight (UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Chart
+        uses: yoshi389111/github-profile-3d-contrib@v2.6.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          user_name: VISHWA-SANTHI
+          config: "profile-night-green"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
