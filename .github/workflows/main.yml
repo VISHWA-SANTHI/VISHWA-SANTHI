@@ -3,27 +3,25 @@ name: main
 on: [push]
 
 jobs:
-test:
-  runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v1
 
-  steps:
-    - uses: actions/checkout@v5
-    - uses: oven-sh/setup-bun@v1
+      - run: bun install --frozen-lockfile
+        working-directory: packages/action
 
-    - run: bun install --frozen-lockfile
-      working-directory: packages/action
+      - run: npm run type
+        working-directory: packages/action
 
-    - run: npm run type
-      working-directory: packages/action
+      - run: npm run lint
+        working-directory: packages/action
 
-    - run: npm run lint
-      working-directory: packages/action
-
-    - run: bun test
-      working-directory: packages/action
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - run: bun test
+        working-directory: packages/action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   test-action:
     runs-on: ubuntu-latest
@@ -73,12 +71,14 @@ test:
       - uses: oven-sh/setup-bun@v1
 
       - run: bun install --frozen-lockfile
+        working-directory: packages/action
 
       - name: build svg-only action
         run: |
           npm run build:action
           rm -r svg-only/dist
           mv packages/action/dist svg-only/dist
+        working-directory: packages/action
 
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
@@ -116,8 +116,10 @@ test:
       - uses: oven-sh/setup-bun@v1
 
       - run: bun install --frozen-lockfile
+        working-directory: packages/demo
 
       - run: npm run build:demo
+        working-directory: packages/demo
         env:
           GITHUB_USER_CONTRIBUTION_API_ENDPOINT: https://github-user-contribution.platane.workers.dev/github-user-contribution/
 
