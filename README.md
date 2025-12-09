@@ -67,11 +67,13 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 
 ## 📍 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VISHWA-SANTHI&style=flat-square&color=22c55e" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&color=22c55e&center=true&vCenter=true&width=550&lines=Counting+every+visit...;Thanks+for+visiting!+💚" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=25&color=22c55e&center=true&vCenter=true&width=500&lines=You+are+visitor+number...;Loading+Counter..." />
   <img src="https://profile-counter.glitch.me/VISHWA-SANTHI/count.svg" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=1" width="300">
 </p>
+
 
 ---
 
