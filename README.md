@@ -29,17 +29,17 @@
 
 ## 📂 Featured Project
 ### 🚨 AWS Event-Driven Log Monitoring & Alerting System
-A scalable end-to-end log analytics pipeline on AWS with automated alerting for failure detection.
+A scalable end-to-end log analytics pipeline on AWS with automated monitoring and real-time alerts.
 
 | Feature | Description |
 |--------|-------------|
 | 🔍 Real-time monitoring | EC2 → CloudWatch log streaming |
 | ⚠ Error detection | Metric Filters trigger CloudWatch Alarms |
-| 🚨 Alerting | SNS email notifications in real-time |
-| 🐍 Log generator | Python-based simulation of failure scenarios |
+| 🚨 Alerts | SNS email notifications |
+| 🐍 Log generator | Python-based simulation of failures |
 | 💾 Cost savings | S3 Lifecycle → Glacier archival (≈80% savings) |
 
-🔗 Repository: **https://github.com/VISHWA-SANTHI**
+🔗 **Repo:** https://github.com/VISHWA-SANTHI
 
 ---
 
@@ -59,28 +59,27 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ---
 
 ## 🐍 Contribution Snake Animation
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/github-snake.svg" width="100%" />
 </div>
 
 ---
 
+## 🏆 Badges & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=false&margin-w=10" />
+</p>
+
+---
+
 ## 📍 Visitor Counter
 <p align="center">
 
-  <!-- Gradient Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,22c55e,2ecc71&height=120&section=header&text=Thanks%20for%20visiting%20💚&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-  <!-- Live Counter -->
   <br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=PROFILE+VIEWS&labelColor=%2322c55e&countColor=%23ffffff&style=for-the-badge" />
-
-  <!-- Milestone -->
   <br><br>
   <img src="https://img.shields.io/badge/⭐%20NEXT%20GOAL-100%20PROFILE%20VISITS-1abc9c?style=for-the-badge" />
-
-  <!-- Bottom Wave Outro -->
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer" />
 
@@ -89,11 +88,11 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ---
 
 ## 🤝 Open to Opportunities
-📌 Looking for **AWS / DevOps / Cloud Engineer** roles  
+📌 Looking for **AWS / DevOps / Cloud Engineer roles**  
 📧 Email — **vishwadevops27@gmail.com**
 
 ---
 
 <div align="center">
-🔥 Thanks for visiting my profile! — Let's connect on LinkedIn 😎  
+  🔥 Thanks for visiting my profile — Let's connect on LinkedIn 😎
 </div>
