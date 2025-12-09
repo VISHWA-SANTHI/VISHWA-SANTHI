@@ -52,32 +52,28 @@ Focused on **automation, reliability & scalability**.
 
 ## 📊 GitHub Stats
 <div align="center">
-
-| | |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="160"/> |
-
+  <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
 ## 🟢 4 — Auto Updating Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=VISHWA-SANTHI&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🟣 1 — 3D Contribution Chart
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg"/>
-</p>
+<p align="center"><i>🔄 3D Contribution chart will appear within a few minutes after workflow setup.</i></p>
 
 ---
 
 ## 🏆 2 — Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=radical&no-frame=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
