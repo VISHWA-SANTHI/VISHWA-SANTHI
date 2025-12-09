@@ -67,7 +67,7 @@ Focused on **automation, reliability & scalability**.
 
 ## 🟣 3 — 3D Contribution Chart
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg"/>
+  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/output/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
