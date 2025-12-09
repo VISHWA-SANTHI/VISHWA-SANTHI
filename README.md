@@ -86,3 +86,71 @@
 <div align="center">
 🔥 Thanks for visiting my profile! — Let's connect on LinkedIn 😎
 </div>
+
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=1ABC9C&center=true&vCenter=true&width=900&lines=Hey+I'm+Vishwa+K;AWS+%26+DevOps+Engineer;Cloud+Infrastructure+%7C+CI%2FCD+Automation+%7C+Terraform+%7C+Docker+%7C+Jenkins">
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+📧 Email: **vishwadevops27@gmail.com**  
+🔗 LinkedIn: (Add your link)  
+💻 GitHub: https://github.com/VISHWA-SANTHI  
+📄 Resume: (Upload & paste link)
+</p>
+
+---
+
+## 🚀 About Me
+AWS & DevOps Engineer from Bengaluru, India with hands-on experience in CI/CD automation, AWS cloud infrastructure, Infrastructure as Code, Dockerization, and monitoring solutions. Passionate about scalable deployments, cloud security, and automation to boost development efficiency.
+
+---
+
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,terraform,git,github,linux,python,bash,cloudflare" />
+</p>
+
+---
+
+## 🔥 Featured Project
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **AWS Event-Driven Log Monitoring & Alerting System** | End-to-end monitoring pipeline detecting application errors in real time and triggering alerting via SNS | AWS EC2, CloudWatch, Metric Filters, SNS, S3, IAM, Shell Scripting, Python |
+
+📌 Highlights  
+- Real-time log streaming from EC2 → CloudWatch  
+- Automatic ERROR pattern detection using Metric Filters → Alarms  
+- SNS instant notifications for failures  
+- S3 Lifecycle → archive logs to Glacier with ~80% cost reduction  
+- Automated EC2 deployment using User Data + Shell Scripts  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHWA-SANTHI&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWA-SANTHI&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🏆 Github Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHWA-SANTHI&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📍 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VISHWA-SANTHI&label=Profile+Views&color=blue&style=plastic" />
+</p>
+
+---
+
+## 🤝 Always open for collaboration
+If you’re working on Cloud, DevOps, AWS automation, or production monitoring — let’s connect and build something great!
