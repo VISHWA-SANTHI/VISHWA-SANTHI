@@ -66,18 +66,18 @@ A scalable end-to-end log analytics pipeline on AWS with automated alerting for 
 ---
 
 ## 📍 Visitor Counter
-<!-- Animated heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=22C55EFF&center=true&vCenter=true&width=550&lines=Tracking+live+visitors+on+my+profile...;Thanks+for+visiting+💚;You+make+my+GitHub+stronger+every+day+🚀" alt="Typing SVG" />
-</p>
 
-  <!-- Working Live Visitor Count -->
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=Profile+Views&labelColor=%2322c55e&countColor=%23ffffff&style=for-the-badge" />
+  <!-- Animated heading (Fixed) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=22C55EFF&center=true&vCenter=true&width=550&lines=Tracking+live+visitors+on+my+profile...;Thanks+for+visiting+💚;You+make+my+GitHub+stronger+every+day+🚀" />
+
+  <!-- Live Counter -->
   <br><br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=VISHWA-SANTHI&label=PROFILE+VIEWS&labelColor=%2322c55e&countColor=%23ffffff&style=for-the-badge" />
 
-  <!-- Milestones -->
-  <img src="https://img.shields.io/badge/⭐%20Next%20Goal-100%20Profile%20Visits-1abc9c?style=for-the-badge" />
+  <!-- Milestone -->
+  <br><br>
+  <img src="https://img.shields.io/badge/⭐%20NEXT%20GOAL-100%20PROFILE%20VISITS-1abc9c?style=for-the-badge" />
 
 </p>
 
