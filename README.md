@@ -86,6 +86,14 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
     <img src="https://img.shields.io/badge/AWS%20Log%20Monitoring%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/vishwa-k-3a0766356" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 
 ---
 
