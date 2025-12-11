@@ -179,7 +179,7 @@ flowchart TD
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWA-SANTHI&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Streak-Active%20🔥-22c55e?style=for-the-badge" />
 </p>
 
 ---
