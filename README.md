@@ -96,15 +96,16 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-# 📌 Pinned Project
+## 📌 Pinned Project
 <p align="center">
   <a href="https://github.com/vishwadevops-cloud/aws-log-monitoring-project" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20Log%20Monitoring%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/vishwa-k-3a0766356/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -114,7 +115,7 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="155" src="https://github-readme-stats-one-bice.vercel.app/api?username=vishwadevops-cloud&theme=tokyonight&show_icons=true&rank_icon=github" />
   <img height="155" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vishwadevops-cloud&layout=compact&theme=tokyonight" />
@@ -122,7 +123,7 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-# 🔥 GitHub Streak  
+## 🔥 GitHub Streak  
 <p align="center">
   <img src="https://img.shields.io/badge/Streak-Active%20🔥-22c55e?style=for-the-badge" />
 </p>
@@ -142,21 +143,21 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-# 🌌 3D Contribution Graph Wallpaper
+## 🌌 3D Contribution Graph Wallpaper
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwadevops-cloud&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🔄 Latest GitHub Activity
+## 🔄 Latest GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwadevops-cloud&custom_title=Recent+Contributions&theme=tokyonight" />
 </p>
 
 ---
 
-# 📍 Visitor Counter
+## 📍 Visitor Counter
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,22c55e,2ecc71&height=120&section=header&text=Thanks%20for%20visiting%20💚&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   <br><br>
