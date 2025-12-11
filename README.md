@@ -98,10 +98,6 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 ---
 
 ## 📘 Deployment Flow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWA-SANTHI/VISHWA-SANTHI/main/assets/deployment-flow.png" width="85%" />
-</p>
-
 flowchart TD
    User((User)) --> EC2
    EC2 -->|App Logs| CloudWatch
