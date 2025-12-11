@@ -87,12 +87,32 @@ A fully automated **event-driven log monitoring & alerting pipeline** on AWS tha
 
 ---
 
-## 🔗 Project Links
-<p align="center">
-  <a href="https://github.com/vishwadevops-cloud/aws-log-monitoring-project" target="_blank"><b>🔗 View Repository</b></a> &nbsp;|&nbsp;
-  <a href="https://github.com/vishwadevops-cloud/aws-log-monitoring-project/tree/main/docs" target="_blank"><b>📘 Documentation</b></a> &nbsp;|&nbsp;
-  <a href="https://github.com/vishwadevops-cloud/aws-log-monitoring-project/blob/main/setup.sh" target="_blank"><b>⚡ Auto Deployment Script</b></a>
-</p>
+### 🔗 Project Links
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vishwadevops-cloud/AWS-log-monitoring-project" target="_blank">
+        🔗 <strong>View Repository</strong>
+      </a>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/vishwadevops-cloud/AWS-log-monitoring-project/tree/main/docs" target="_blank">
+        📘 <strong>Documentation</strong>
+      </a>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/vishwadevops-cloud/AWS-log-monitoring-project/blob/main/deploy.sh" target="_blank">
+        ⚡ <strong>Auto Deployment Script</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
